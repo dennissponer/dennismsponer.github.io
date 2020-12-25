@@ -1,3 +1,3 @@
 # dennissponer.github.io
-Dennis Sponer's Github Repository
+Dennis M. Sponer's Github Repository
 
